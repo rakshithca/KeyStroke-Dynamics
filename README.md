@@ -1,6 +1,6 @@
 # KeyStroke-Dynamics
-Keystroke dynamics refers to the automated method of identifying or confirming the identity of an individual based on the manner and the rhythm of typing on a keyboard
-
+Keystroke dynamics refers to the automated method of identifying or confirming the identity of an individual based on the manner and the rhythm of typing on a keyboard. Keystroke dynamics are a powerful behavioral biometric measurement capable of determining user identity and for continuous authentication. It utilizes the manner and rhythm in which each individual types. It is an unobtrusive method that can complement an existing security system such as  password scheme.
+<br/>
 This project tries to verify a subject's identity based on his keystroke patterns, ie, his typing habits.
 
 The description about the steps to build the system from scratch can be read from this blog:
