@@ -34,3 +34,10 @@ The result here is compared in the form of ROC curve. There were two datasets in
 <br/>
 All the results are in: <br/> Report_KeyStrokeDynamics.pdf<br/>
 KeyStroke Dynamics for user authentication.pptx
+
+
+**References**<br/>
+<br/>https://sourceforge.net/p/pyhook/wiki/PyHook_Tutorial/<br/>
+http://www.cs.cmu.edu/~keystroke/KillourhyMaxion09.pdf<br/>
+http://www.cs.cmu.edu/~keystroke/<br/>
+https://github.com/abhijeet3922/User-Verification-based-on-Keystroke-Dynamics<br/>
