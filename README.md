@@ -3,7 +3,7 @@ User Verification based on Keystroke Dynamics
 
  A program to **collect keystroke data, refactor it and analyze it by applying different algorithm model**
 
-In Collbration with [Rakshith Churchgundi Amarnath](https://github.com/rakshithca/) and Aditya Yaji
+In Collbration with [Urvi Sheth](https://github.com/urvisheth) and Aditya Yaji
 
 
 ## Steps to execute
